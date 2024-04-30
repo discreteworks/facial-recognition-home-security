@@ -1,10 +1,13 @@
 System Requirements
 -------------------
 - Python >= 3.6
-
 - OpenCV
-
 - Tkinter
+- SQLite
+
+Setup
+-----
+
 
 Run
 ---
